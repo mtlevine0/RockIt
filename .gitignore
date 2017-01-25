@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+# ffmpeg windows binaries
+services/ffmpeg.exe
+services/ffplay.exe
+services/ffprobe.exe
+
+# PyCharm project files
+.idea/
+
+# MP3 files
+*.mp3
+
 # Distribution / packaging
 .Python
 env/
